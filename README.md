@@ -63,7 +63,7 @@ All formats are thoroughly validated before release to maintain the highest qual
 
 ## Support My Work
 
-If you find value in these guides and want to support continued development, please consider using the **Sponsor** button above. Your support helps maintain and expand this resource for the entire community.
+If you find value in these guides and want to support continued development, please consider using the **Sponsor** button. Your support helps maintain and expand this resource for the entire community.
 
 ---
 
