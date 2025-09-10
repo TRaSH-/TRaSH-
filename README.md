@@ -1,6 +1,6 @@
 # Welcome to My Profile
 
-I'm the founder of **[TRaSH-Guides](https://trash-guides.info/)**, a comprehensive collection of guides for Sonarr, Radarr, and related media management applications. My mission is to help users optimize their media server setups using proven configurations and best practices
+I'm the founder of **[TRaSH-Guides](https://trash-guides.info/)**, a comprehensive collection of guides for Radarr, Sonarr, and related media management applications. My mission is to help users optimize their media server setups using proven configurations and best practices
 
 In addition to the main guides, I actively contribute to related projects and explore any topics that spark my interest within the media automation ecosystem.
 
@@ -10,13 +10,16 @@ In addition to the main guides, I actively contribute to related projects and ex
 The guides are developed in **close collaboration with the Radarr and Sonarr development teams** and serve as officially supported documentation that users are regularly directed to.
 
 ### What We Cover
-TRaSH-Guides provides extensive documentation addressing frequently asked questions and offering optimal configurations across the entire media server stack, including:
+TRaSH-Guides provides extensive documentation that addresses frequently asked questions and offers optimal configurations across the entire media server stack, including:
 
 **Core Applications:**
 - Radarr & Sonarr
 - Prowlarr
 - Download clients (qBittorrent, NZBGet, SABnzbd, Deluge)
-- Media servers (Plex, Emby, Jellyfin)
+- Media servers
+
+**Media Server Architecture:**
+- How to establish a proper and optimal share and folder structure that supports hardlinks and atomic moves
 
 **Key Features:**
 - Guides approved by original developers or created with their direct input
@@ -41,7 +44,7 @@ TRaSH-Guides provides extensive documentation addressing frequently asked questi
 - **API Limit Management** - Optimize the use of limited API indexers without exceeding rate limits.
 
 ### 🏗️ **Media Server Architecture**
-Establishing a proper file and folder structure is crucial for:
+How to establish a proper and optimal share and folder structure that supports hardlinks and atomic moves
 - **Enhanced Security** - Granular access control for applications.
 - **Hardlinks** - Efficient disk usage through shared files across locations.
 - **Atomic Moves** - Instantaneous file operations across your system.
