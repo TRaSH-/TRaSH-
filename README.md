@@ -1,6 +1,6 @@
 # Welcome to My Profile
 
-I'm the founder of **[TRaSH-Guides](https://trash-guides.info/)**, a comprehensive collection of guides for Radarr, Sonarr, and related media management applications. My mission is to help users optimize their media server setups using proven configurations and best practices
+I'm the founder of **[TRaSH-Guides](https://trash-guides.info/)**, a complete collection of guides for Radarr, Sonarr, and related media management tools. These guides answer common questions and provide the best settings for your entire media server setup.
 
 In addition to the main guides, I actively contribute to related projects and explore any topics that spark my interest within the media automation ecosystem.
 
@@ -10,21 +10,24 @@ In addition to the main guides, I actively contribute to related projects and ex
 The guides are developed in **close collaboration with the Radarr and Sonarr development teams** and serve as officially supported documentation that users are regularly directed to.
 
 ### What We Cover
-TRaSH-Guides provides extensive documentation that addresses frequently asked questions and offers optimal configurations across the entire media server stack, including:
+TRaSH-Guides offers detailed documentation that answers common questions and provides the best settings for your entire media server setup, including:
 
-**Core Applications:**
+**Main Applications:**
+
 - Radarr & Sonarr
 - Prowlarr
 - Download clients (qBittorrent, NZBGet, SABnzbd, Deluge)
 - Media servers
 
-**Media Server Architecture:**
-- How to establish a proper and optimal share and folder structure that supports hardlinks and atomic moves
+**Media Server Setup:**
+
+- How to create a proper and optimal share and folder structure that supports hardlinks and atomic moves
 
 **Key Features:**
-- Guides approved by original developers or created with their direct input
-- Production-tested configurations used by thousands of users
-- Regular updates to stay current with application changes
+
+- Guides approved by the original developers or created with their direct help
+- Settings tested in real-world use by thousands of users
+- Regular updates to keep up with application changes
 
 ## Featured Guides
 
