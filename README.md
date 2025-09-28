@@ -57,7 +57,7 @@ Each Custom Format undergoes comprehensive testing to ensure:
 - **Minimal False Positives** - Accurate matching without unwanted results.
 - **Indexer & Tracker Compatibility** - Supports naming conventions from major indexers and trackers.
 
-All formats are thoroughly validated before release to maintain the highest quality standards.
+All formats are thoroughly validated before release to ensure the highest quality standards are maintained.
 
 ## GitHub Statistics
 
